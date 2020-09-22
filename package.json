@@ -3,6 +3,7 @@
   "version": "11.0.0",
   "description": "Normalize file for emotion JSS library",
   "main": "dist/index.js",
+  "module": "src/index.js",
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
