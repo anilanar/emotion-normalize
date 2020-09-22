@@ -1,5 +1,5 @@
 {
-  "name": "emotion-normalize",
+  "name": "@anilanar/emotion-normalize",
   "version": "10.1.0",
   "description": "Normalize file for emotion JSS library",
   "main": "dist/index.js",
